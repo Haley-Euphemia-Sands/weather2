@@ -4,7 +4,7 @@
         2. Allow players to switch between Tropical Cyclone Scales: Saffir-Simpson Hurricane Scale, 
         North Indan Ocean Cyclone   Scale, or Australian Tropical Cyclone Scale for the Tropical Cyclone on the radar block.
 
-        3. Look through the code to see if storms have internal heat, if not implement.
+        3. Look through the code to see if storms have internal heat, if not, implement.
 
         4. Implement transition between the types of cyclone based on temperature of the biome, and internal heat of the storm.
 
