@@ -17,7 +17,7 @@
         the Biome is, they will also intensify proportional to internal temperature and the biome.
         
         8. Add in a more realistic internal energy rather than step based for intensity, the energy drops proportional to 
-        the type of storm.
+        the type of storm. (note: Energy of a storm can be broken up into Heat, and the Heat converted into work ie. the wind)
         
         9. Dissociate Tornadoes from being a stand alone storm and allow tornadogenesis to occur within storms of sufficient 
         energy
